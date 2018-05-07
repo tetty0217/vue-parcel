@@ -21,7 +21,7 @@
 * npm経由でparcel実行の確認
 > npm start
 
-## 2. デフォルトで入る子供達
+## デフォルトで入る子供達
 [vue.js](https://jp.vuejs.org/index.html)
 
 [vuex](https://router.vuejs.org/en/)
