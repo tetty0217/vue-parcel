@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACF,KAAK,ECDQ,IAAI",
+"sources": ["_common.sass","_color.sass"],
+"names": [],
+"file": "app.css"
+}
